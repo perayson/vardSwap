@@ -2,7 +2,9 @@
 Script to swap and reformat historical spelling variant and modern equivalent in VARD output
 
 This script assumes the format described in the VARD documentation e.g.
+```
 <normalised orig="Raigne" auto="false">Reign</normalised>
+```
 
 Converted output will be:
 ```
